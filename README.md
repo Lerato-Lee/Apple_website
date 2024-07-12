@@ -1,6 +1,7 @@
 <div align="center">
   <br />
-  ![Screenshot 2024-07-12 140249](https://github.com/user-attachments/assets/7d35408e-bb6d-4180-bbc8-a2e751fbdc9a)
+  img src="https://![iphone](https://github.com/user-attachments/assets/72814403-009b-4d94-b1e5-04506f85ea21)
+
 
    <div>
     <img src="https://img.shields.io/badge/-React_JS-black?style=for-the-badge&logoColor=white&logo=react&color=61DAFB" alt="react.js" />
@@ -34,4 +35,4 @@
 
 and many more, including code architecture and reusability 
 
-## <a name="quick-start">🤸 Quick Start</a>
+## <a name="Thank youu">🤸 TY</a>
